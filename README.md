@@ -12,10 +12,8 @@
   * Hello World
     * Login
       * Login Header
-      ##
       * Login Body
         * Login Body Form
-      ##
       * Login Footer 
 * * * 
 ### Template sample link
