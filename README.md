@@ -1,24 +1,33 @@
-# hello-vue-js
+# Starting to learn Vue.js 3 Sample
 
-## Project setup
-```
-npm install
-```
+### Topics
+* Use Bootstrap 5
+* Use Fontawesome
+* Use a component inside another component
+* Use bootstrap login template for integrated to vue.js web app
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+* * *
+### Components
+* App
+  * Hello World
+    * Login
+      * Login Header
+      ##
+      * Login Body
+        * Login Body Form
+      ##
+      * Login Footer 
+* * * 
+### Template sample link
+https://bootsnipp.com/snippets/vl4R7
 
-### Compiles and minifies for production
-```
-npm run build
-```
+* * *
+### My Sources for this sample
 
-### Lints and fixes files
-```
-npm run lint
-```
+* https://flaviocopes.com/vue-import-component/
+* https://www.youtube.com/watch?v=5e7XKFi6uQw
+* https://cli.vuejs.org/
+* https://dev.to/sabbirsobhani/font-awesome-with-vuejs-3-59ee
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+  
+
